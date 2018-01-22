@@ -1,0 +1,12 @@
+https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.random.triangular.html#numpy.random.triangular
+es
+
+https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py
+
+https://www.google.com/search?q=random+distribution+learning+rates&oq=random+distribution+learning+rates&aqs=chrome..69i57j0l5.3598j0j7&sourceid=chrome&ie=UTF-8
+
+https://openreview.net/forum?id=B1Y8f433990d1
+
+https://docs.python.org/3/tutorial/inputoutput.html
+
+https://www.youtube.com/watch?v=jWT-AX9677k
